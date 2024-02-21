@@ -1,0 +1,45 @@
+# .NET
+*.obj
+*.pdb
+*.dll
+*.exe
+*.cache
+*.log
+*.vscode
+.vs/
+# Test results
+TestResults/
+[Bb]in/
+[Oo]bj/
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.sln.ide
+*.suo
+*.userprefs
+# Rider files
+.idea/
+*.sln.iml
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+*.paket.restore.log
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio Code files
+.vscode/
